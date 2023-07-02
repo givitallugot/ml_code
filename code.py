@@ -40,3 +40,8 @@ git push : 로컬 저장소의 변경사항을 github에 반영합니다. ( git 
 git checkout : 현재 위치하고 있지 않은 저장소를 체크아웃합니다. (예를 들어 master 브랜치를 보고 싶으면, git checkout master를 사용할 수 있습니다.)
 git merge : 브랜치에서 하던 작업을 끝내고, 동료가 볼 수 있는 master브랜치로 합치는 과정입니다.
 git pull : 로컬 저장소 작업할 때, 작업하고 있는 저장소의 최신 버전을 받아옵니다.
+
+모델링
+
+stacking
+https://techblog-history-younghunjo1.tistory.com/103
