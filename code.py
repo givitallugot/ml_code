@@ -45,3 +45,10 @@ git pull : 로컬 저장소 작업할 때, 작업하고 있는 저장소의 최�
 
 stacking
 https://techblog-history-younghunjo1.tistory.com/103
+
+
+dashboard
+https://towardsdatascience.com/4-python-packages-to-create-interactive-dashboards-d50861d1117e
+https://slowsteadystat.tistory.com/22
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+
