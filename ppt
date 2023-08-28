@@ -1,9 +1,8 @@
 
-oversampling 이전, 이후 데이터 비교
-
-ADASYN 설명 https://velog.io/@cardy20/Approach-to-solve-imbalanced-dataset
-
-PCA하고 그림 그리기
+0. 오버샘플링 설명
+1. oversampling 이전, 이후 데이터 개수 비교
+2. PCA하고 그림 그리기
 https://www.themlguy.com/using-crucio-smotenc-for-unbalanced-datasets/
 
+ADASYN 설명 https://velog.io/@cardy20/Approach-to-solve-imbalanced-dataset
 
