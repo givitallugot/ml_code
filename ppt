@@ -1,8 +1,22 @@
 
-0. 오버샘플링 설명
+0. 오버샘플링 설명 (논문)
 1. oversampling 이전, 이후 데이터 개수 비교
 2. PCA하고 그림 그리기
 https://www.themlguy.com/using-crucio-smotenc-for-unbalanced-datasets/
 
 ADASYN 설명 https://velog.io/@cardy20/Approach-to-solve-imbalanced-dataset
 
+--------------
+
+0. lightgbm
+- 
+- https://www.mdpi.com/2076-3417/12/11/5565
+1. 속도, 성능비교, (rmse, f1-score)
+2. 
+
+
+grid search
+https://velog.io/@emseoyk/%ED%95%98%EC%9D%B4%ED%8D%BC%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%9C%EB%8B%9D
+
+lightgbm vs rf vs xgboost
+https://sikmulation.tistory.com/18
